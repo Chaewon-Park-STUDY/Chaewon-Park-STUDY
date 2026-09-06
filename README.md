@@ -1,8 +1,8 @@
 
 ## 🎓 Education
 
-- **B.A. in Applied Statistics** | Yonsei University, 2023 – Aug 2026
 - **M.S. in Statistics and Data Science** | Yonsei University, Sep 2026~ (Currently)
+- **B.A. in Applied Statistics** | Yonsei University, 2023 – Aug 2026
 
 ---
 
