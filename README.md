@@ -9,6 +9,3 @@
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDODPPwtg)](https://www.git-ranker.com/ko/users/Chaewon-Park-STUDY)
 ---
 
-<p align="center">
-  <img src="./assets/moon-rabbit-grass.svg" alt="moon rabbit contribution grid" width="100%" />
-</p>
